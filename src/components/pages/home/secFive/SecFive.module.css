@@ -1,0 +1,106 @@
+.title {
+    font-family: Unbounded;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 60px;
+    text-align: center;
+    color: #0C6BC5;
+    margin-bottom: 23px;
+    padding-top: 90px;
+}
+
+.SecFive {
+    /* margin-bottom: 110px; */
+}
+
+.big {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    /* width: 520px; */
+    /* height: 450px; */
+    background-color: white;
+    box-shadow: 0px 4px 20px 0px #0F467A24;
+    /* margin-bottom: 20px; */
+    padding: 30px;
+}
+
+.url {
+    width: 100%;
+    height: 280px;
+    margin-bottom: 20px;
+}
+
+.titlee {
+    /* width: 445px;
+    height: 90px; */
+    font-family: TT Norms;
+    font-size: 20px;
+    font-weight: 700;
+    /* line-height: 33.8px; */
+    color: #212121;
+    margin-bottom: 15px;
+}
+
+.boxp {
+    width: 205px;
+    height: 37px;
+    border-radius: 4px;
+    background-color: #F4F4F4;
+    margin-bottom: 15px;
+    padding: 7px;
+}
+
+.text {
+    font-family: TT Norms;
+    font-size: 18px;
+    font-weight: 500;
+    color: #556A7D;
+    text-align: center;
+}
+
+.line {
+    width: 100%;
+    /* height: 1px; */
+    /* opacity: 0px; */
+    margin-bottom: 20px;
+    border: 1px solid #D3DFEA
+}
+
+.boxson {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.ii {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.date {
+    font-family: TT Norms;
+    font-size: 40px;
+    font-weight: 400;
+    color: #556A7D;
+}
+
+.linkk {
+    font-family: TT Norms;
+    font-size: 20px;
+    font-weight: 700;
+    color: #0C6BC5;
+    text-decoration: none;
+}
+
+.l {
+    /* width: 50%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

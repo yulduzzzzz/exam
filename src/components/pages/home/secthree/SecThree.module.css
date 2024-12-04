@@ -1,0 +1,81 @@
+.SecThree {
+    width: 100%;
+    /* height: 986px; */
+    background-image: url(../../../../assets/bacl-main-one.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 160px;
+    /* margin-top: 50px; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    /* width: 350px; */
+    /* margin: 0 auto; */
+    font-family: Unbounded;
+    font-size: 40px;
+    font-weight: 500;
+    /* line-height: 60px; */
+    color: #0C6BC5;
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.one {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.text {
+    /* /* width: 774px;
+    height: 300px; */
+    font-family: TT Norms;
+    text-align: left;
+    color: #11385c;
+    font-size: 20px;
+    font-weight: 400;
+    /* line-height: 150%; */
+    /* margin-bottom: 32px; */
+    opacity: .8;
+    line-height: 30px;
+}
+
+.text p:nth-child(1) {
+    margin-bottom: 20px;
+}
+
+.text p:nth-child(2) {
+    margin-bottom: 25px;
+}
+
+.text p:nth-child(3) {
+    margin-bottom: 28px;
+}
+
+.text p:nth-child(4) {
+    margin-bottom: 20px;
+}
+
+.text p:nth-child(5) {
+    margin-bottom: 30px;
+}
+
+.img {
+    width: 50%;
+    /* margin-top: 40px; */
+}
+
+.btn {
+    width: 228px;
+    height: 56px;
+    background-color: #0C6BC5;
+    border-radius: 48px;
+    border: 0;
+    color: white;
+    font-family: TT Norms;
+    font-size: 20px;
+    font-weight: 500;
+}
